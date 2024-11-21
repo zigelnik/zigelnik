@@ -1,14 +1,15 @@
 # Hello, I'm Tal Zigelnik! 👋
 
-I'm a 3rd-year Computer Science student at COLMAN, and I'm about to graduate! 🎓 I've recently completed an internship in deep learning, where I gained hands-on experience with advanced technologies and frameworks. I'm passionate about web development, machine learning, and creating impactful projects.
+I'm a Computer Science graduate with a strong passion for building scalable and efficient software. My expertise lies in developing full-stack and backend solutions using modern technologies like JavaScript, Node.js, React, and Python. With experience in frameworks such as Express and Django, I enjoy crafting clean, maintainable, and impactful applications.
+
+While I have experience in machine learning and deep learning frameworks like TensorFlow and PyTorch, my primary focus is on software engineering—designing robust systems and solving real-world problems. I'm excited about collaborating on innovative projects and contributing to meaningful applications.
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** JavaScript, Python, Java
-- **Web Development:** React, Node.js, Express
-- **Data Science & Machine Learning:** Jupyter Notebook, PyTorch, Keras, TensorFlow
+- **Languages:** Java, Python, JavaScript(Node.js Express, React), C
+- **Deep & Machine Learning:** Jupyter Notebook, PyTorch, Keras, TensorFlow
 - **Databases:** MongoDB
-- **Others:** JavaFX
+- **Others:** Docket, Git, JIRA, Monday, RESTful APIs, Object Oriented Programming & Design
 
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
@@ -17,12 +18,15 @@ I'm a 3rd-year Computer Science student at COLMAN, and I'm about to graduate! �
 ![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat-square&logo=pytorch)
 ![Keras](https://img.shields.io/badge/-Keras-red?style=flat-square&logo=keras)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow)
-![JavaFX](https://img.shields.io/badge/-JavaFX-blue?style=flat-square&logo=java)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-grey?style=flat-square&logo=express)
 
+## Looking For
+- Open to full-stack or backend software development roles.
+- Passionate about building efficient, scalable, and user-friendly applications.
+- Interested in contributing to projects that solve real-world challenges.
 
 ## 📫 Get in Touch
 
